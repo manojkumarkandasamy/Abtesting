@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/tagmanager/res/values-gu/tagmanager_strings.xml -->
+<eat-comment/>
+<string name="tagmanager_preview_dialog_button">ચાલુ રાખો</string>
+<string name="tagmanager_preview_dialog_message">પૂર્વાવલોકન મોડ અપડેટ કરવામાં આવ્યું.</string>
+<string name="tagmanager_preview_dialog_title">પ્રીવ્યૂ કરો</string>
+</resources>

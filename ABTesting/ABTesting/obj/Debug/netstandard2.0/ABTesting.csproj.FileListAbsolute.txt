@@ -1,0 +1,16 @@
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\bin\Debug\netstandard2.0\ABTesting.deps.json
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\bin\Debug\netstandard2.0\ABTesting.dll
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\bin\Debug\netstandard2.0\ref\ABTesting.dll
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\bin\Debug\netstandard2.0\ABTesting.pdb
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\Demo.xaml.g.cs
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.AssemblyInfoInputs.cache
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.AssemblyInfo.cs
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.csproj.CoreCompileInputs.cache
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.dll
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ref\ABTesting.dll
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.pdb
+C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.csproj.AssemblyReference.cache

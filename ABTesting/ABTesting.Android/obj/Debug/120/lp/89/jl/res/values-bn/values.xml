@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/tagmanager/res/values-bn/tagmanager_strings.xml -->
+<eat-comment/>
+<string name="tagmanager_preview_dialog_button">চালিয়ে যান</string>
+<string name="tagmanager_preview_dialog_message">প্রিভিউ মোড আপডেট করা হয়েছে।</string>
+<string name="tagmanager_preview_dialog_title">প্রিভিউ</string>
+</resources>

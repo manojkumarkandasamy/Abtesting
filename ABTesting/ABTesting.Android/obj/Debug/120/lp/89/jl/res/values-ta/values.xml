@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/tagmanager/res/values-ta/tagmanager_strings.xml -->
+<eat-comment/>
+<string name="tagmanager_preview_dialog_button">தொடர்க</string>
+<string name="tagmanager_preview_dialog_message">மாதிரிக்காட்சிப் பயன்முறை புதுப்பிக்கப்பட்டது.</string>
+<string name="tagmanager_preview_dialog_title">மாதிரிக்காட்சி</string>
+</resources>

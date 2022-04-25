@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/tagmanager/res/values-my/tagmanager_strings.xml -->
+<eat-comment/>
+<string name="tagmanager_preview_dialog_button">ရှေ့ဆက်ပါ</string>
+<string name="tagmanager_preview_dialog_message">အစမ်းကြည့်ခြင်းမုဒ်ကို အပ်ဒိတ်လုပ်ပြီးပါပြီ။</string>
+<string name="tagmanager_preview_dialog_title">အစမ်းကြည့်ပါ</string>
+</resources>

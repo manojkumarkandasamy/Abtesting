@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/tagmanager/res/values-bs/tagmanager_strings.xml -->
+<eat-comment/>
+<string name="tagmanager_preview_dialog_button">Nastavi</string>
+<string name="tagmanager_preview_dialog_message">Način pregleda je ažuriran.</string>
+<string name="tagmanager_preview_dialog_title">Pregled</string>
+</resources>

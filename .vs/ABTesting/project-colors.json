@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8975b347-0aa0-4ecf-8ce3-24efe576244a": {
+      "ProjectGuid": "8975b347-0aa0-4ecf-8ce3-24efe576244a",
+      "DisplayName": "ABTesting",
+      "ColorIndex": 0
+    },
+    "5d69024d-bb36-431e-80a5-0e1daf5734c1": {
+      "ProjectGuid": "5d69024d-bb36-431e-80a5-0e1daf5734c1",
+      "DisplayName": "ABTesting.Android",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

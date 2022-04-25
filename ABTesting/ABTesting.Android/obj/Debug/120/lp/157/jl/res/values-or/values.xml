@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/tagmanager/res/values-or/tagmanager_strings.xml -->
+<eat-comment/>
+<string name="tagmanager_preview_dialog_button">ଜାରି ରଖନ୍ତୁ</string>
+<string name="tagmanager_preview_dialog_message">ଝଲକ ମୋଡ୍‌କୁ ଅପଡେଟ୍ କରିଦିଆଯାଇଛି।</string>
+<string name="tagmanager_preview_dialog_title">ଝଲକ ଦେଖନ୍ତୁ</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/tagmanager/res/values-hi/tagmanager_strings.xml -->
+<eat-comment/>
+<string name="tagmanager_preview_dialog_button">जारी रखें</string>
+<string name="tagmanager_preview_dialog_message">झलक वाला मोड अपडेट किया गया.</string>
+<string name="tagmanager_preview_dialog_title">झलक</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/tagmanager/res/values-ur/tagmanager_strings.xml -->
+<eat-comment/>
+<string name="tagmanager_preview_dialog_button">جاری رکھیں</string>
+<string name="tagmanager_preview_dialog_message">پیش منظر موڈ اپ ڈیٹ ہو گیا۔</string>
+<string name="tagmanager_preview_dialog_title">پیش منظر</string>
+</resources>
