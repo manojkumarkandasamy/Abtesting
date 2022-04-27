@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace ABTesting.Model
@@ -16,8 +16,8 @@ namespace ABTesting.Model
             set { SetProperty(ref _test, value); }
         }
 
-        string _instance;
-        public string Instance
+        Task<string> _instance;
+        public Task<string> Instance
         {
             get { return _instance; }
             set { SetProperty(ref _instance, value); }

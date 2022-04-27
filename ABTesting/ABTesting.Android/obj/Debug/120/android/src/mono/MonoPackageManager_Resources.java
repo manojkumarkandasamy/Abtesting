@@ -68,6 +68,7 @@ public class MonoPackageManager_Resources {
 		"Xamarin.Firebase.Datatransport.dll",
 		"Xamarin.Firebase.Encoders.dll",
 		"Xamarin.Firebase.Encoders.JSON.dll",
+		"Xamarin.Firebase.Iid.dll",
 		"Xamarin.Firebase.Iid.Interop.dll",
 		"Xamarin.Firebase.Installations.dll",
 		"Xamarin.Firebase.Installations.InterOp.dll",

@@ -66,6 +66,9 @@
     <PackageReference Include="Xamarin.Firebase.Config">
       <Version>121.0.1.3</Version>
     </PackageReference>
+    <PackageReference Include="Xamarin.Firebase.Iid">
+      <Version>121.1.0.5</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Firebase.Installations">
       <Version>117.0.0.3</Version>
     </PackageReference>
@@ -132,8 +135,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\Xml\RemoteConfigDefaults.xml" />
-    <AndroidResource Include="Resources\Xml\XMLFile1.xml" />
+    <AndroidResource Include="Resources\Xml\RemoteConfigDefaults.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

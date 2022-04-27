@@ -1444,6 +1444,9 @@ com.google.firebase.encoders.annotations.Encodable;com.google.firebase.encoders.
 Firebase.Encoders.Annotations.IExtraProperty, Xamarin.Firebase.Encoders;com.google.firebase.encoders.annotations.ExtraProperty
 Firebase.Encoders.Annotations.IExtraProperty;com.google.firebase.encoders.annotations.ExtraProperty
 com.google.firebase.encoders.annotations.ExtraProperty;com.google.firebase.encoders.annotations.ExtraProperty
+Firebase.Iid.IInstanceIdResult, Xamarin.Firebase.Iid;com.google.firebase.iid.InstanceIdResult
+Firebase.Iid.IInstanceIdResult;com.google.firebase.iid.InstanceIdResult
+com.google.firebase.iid.InstanceIdResult;com.google.firebase.iid.InstanceIdResult
 Firebase.Iid.Internal.IFirebaseInstanceIdInternalNewTokenListener, Xamarin.Firebase.Iid.Interop;com.google.firebase.iid.internal.FirebaseInstanceIdInternal$NewTokenListener
 Firebase.Iid.Internal.IFirebaseInstanceIdInternalNewTokenListener;com.google.firebase.iid.internal.FirebaseInstanceIdInternal$NewTokenListener
 com.google.firebase.iid.internal.FirebaseInstanceIdInternal$NewTokenListener;com.google.firebase.iid.internal.FirebaseInstanceIdInternal$NewTokenListener

@@ -10,7 +10,7 @@
       "ABTesting/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "Xamarin.Essentials": "1.7.1",
+          "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
         },
         "runtime": {
@@ -31,7 +31,7 @@
           }
         }
       },
-      "Xamarin.Essentials/1.7.1": {
+      "Xamarin.Essentials/1.7.2": {
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
         },
@@ -87,12 +87,12 @@
       "path": "system.numerics.vectors/4.5.0",
       "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
     },
-    "Xamarin.Essentials/1.7.1": {
+    "Xamarin.Essentials/1.7.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-u7pUgvHJKTYo5ATiwRZvYviq2O0AQXIqxdna+sMxqidfWpbD7FBgFOLNAZzWKSll/AQBPeDrqLAWZNLq+ztpmQ==",
-      "path": "xamarin.essentials/1.7.1",
-      "hashPath": "xamarin.essentials.1.7.1.nupkg.sha512"
+      "sha512": "sha512-3r2QA/54YZGw6o+cBmIQdvs9nkT1SNHHvFGl1jg2bJ/INmsPdSU4ddrwhIw6zSWSIMRbemKvXEVov1KwjRk6PQ==",
+      "path": "xamarin.essentials/1.7.2",
+      "hashPath": "xamarin.essentials.1.7.2.nupkg.sha512"
     },
     "Xamarin.Forms/5.0.0.2401": {
       "type": "package",

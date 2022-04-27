@@ -14,3 +14,19 @@ C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstan
 C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ref\ABTesting.dll
 C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.pdb
 C:\Users\Nandhini.B\source\repos\ABTesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.csproj.AssemblyReference.cache
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\bin\Debug\netstandard2.0\ABTesting.deps.json
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\bin\Debug\netstandard2.0\ABTesting.dll
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\bin\Debug\netstandard2.0\ref\ABTesting.dll
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\bin\Debug\netstandard2.0\ABTesting.pdb
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.csproj.AssemblyReference.cache
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\Demo.xaml.g.cs
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.AssemblyInfoInputs.cache
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.AssemblyInfo.cs
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.csproj.CoreCompileInputs.cache
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.dll
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ref\ABTesting.dll
+C:\Users\Meera.T\Desktop\New folder\Abtesting\ABTesting\ABTesting\obj\Debug\netstandard2.0\ABTesting.pdb

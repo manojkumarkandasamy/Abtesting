@@ -1,19 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "49qovgUpP4hRhYgpMkxnGy4I6tQZ3PuoEMW+111/4hcFBUR9F3/gufs0l+g8xXdpQIxAfgZjtxaVk3lq8eprcQ==",
+  "dgSpecHash": "PijPHBag9Py8Clu6WJnJlfcCYkAG2iR6Q6CxNgxau3vKP1Lgk+Jc82uR5/jImmB9fBv0rte/qd4mvXWwb1UjYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting.iOS\\ABTesting.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting.iOS\\ABTesting.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Nandhini.B\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Nandhini.B\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Nandhini.B\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\Meera.T\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Meera.T\\.nuget\\packages\\xamarin.build.download\\0.11.0\\xamarin.build.download.0.11.0.nupkg.sha512",
+    "C:\\Users\\Meera.T\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Meera.T\\.nuget\\packages\\xamarin.firebase.ios.abtesting\\8.10.0\\xamarin.firebase.ios.abtesting.8.10.0.nupkg.sha512",
+    "C:\\Users\\Meera.T\\.nuget\\packages\\xamarin.firebase.ios.analytics\\8.10.0\\xamarin.firebase.ios.analytics.8.10.0.nupkg.sha512",
+    "C:\\Users\\Meera.T\\.nuget\\packages\\xamarin.firebase.ios.cloudmessaging\\8.10.0\\xamarin.firebase.ios.cloudmessaging.8.10.0.nupkg.sha512",
+    "C:\\Users\\Meera.T\\.nuget\\packages\\xamarin.firebase.ios.core\\8.10.0\\xamarin.firebase.ios.core.8.10.0.nupkg.sha512",
+    "C:\\Users\\Meera.T\\.nuget\\packages\\xamarin.firebase.ios.installations\\8.10.0\\xamarin.firebase.ios.installations.8.10.0.nupkg.sha512",
+    "C:\\Users\\Meera.T\\.nuget\\packages\\xamarin.firebase.ios.instanceid\\4.8.0\\xamarin.firebase.ios.instanceid.4.8.0.nupkg.sha512",
+    "C:\\Users\\Meera.T\\.nuget\\packages\\xamarin.firebase.ios.remoteconfig\\8.10.0\\xamarin.firebase.ios.remoteconfig.8.10.0.nupkg.sha512",
+    "C:\\Users\\Meera.T\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.1 to 1.7.0. Reference the package directly from the project to select a different version. \r\n ABTesting.iOS -> ABTesting -> Xamarin.Essentials (>= 1.7.1) \r\n ABTesting.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.2 to 1.7.0. Reference the package directly from the project to select a different version. \r\n ABTesting.iOS -> ABTesting -> Xamarin.Essentials (>= 1.7.2) \r\n ABTesting.iOS -> Xamarin.Essentials (>= 1.7.0)",
       "libraryId": "Xamarin.Essentials",
       "targetGraphs": [
         "Xamarin.iOS,Version=v1.0",

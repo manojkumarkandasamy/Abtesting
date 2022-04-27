@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace ABTesting.ViewModel
@@ -21,14 +21,14 @@ namespace ABTesting.ViewModel
         {
             try
             {
-                
-                Instance = DependencyService.Get<IRemoteConfiguration>().Display();
+
+                Instance = DependencyService.Get<IRemoteConfiguration>().GetTokenAsync();
             }
             catch (Exception ex)
             {
-              //  Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.Message);
             }
-            
+
         }
     }
 }

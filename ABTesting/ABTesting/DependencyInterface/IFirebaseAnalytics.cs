@@ -9,6 +9,6 @@ namespace ABTesting.DependencyInterface
 {
     public interface IFirebaseAnalytics
     {
-        void LogEvent(string EventID);
+       // void LogEvent(string EventID);
     }
 }

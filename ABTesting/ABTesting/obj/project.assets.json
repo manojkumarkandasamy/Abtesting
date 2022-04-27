@@ -35,7 +35,7 @@
           "lib/netstandard2.0/System.Numerics.Vectors.dll": {}
         }
       },
-      "Xamarin.Essentials/1.7.1": {
+      "Xamarin.Essentials/1.7.2": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -258,10 +258,10 @@
         "version.txt"
       ]
     },
-    "Xamarin.Essentials/1.7.1": {
-      "sha512": "u7pUgvHJKTYo5ATiwRZvYviq2O0AQXIqxdna+sMxqidfWpbD7FBgFOLNAZzWKSll/AQBPeDrqLAWZNLq+ztpmQ==",
+    "Xamarin.Essentials/1.7.2": {
+      "sha512": "3r2QA/54YZGw6o+cBmIQdvs9nkT1SNHHvFGl1jg2bJ/INmsPdSU4ddrwhIw6zSWSIMRbemKvXEVov1KwjRk6PQ==",
       "type": "package",
-      "path": "xamarin.essentials/1.7.1",
+      "path": "xamarin.essentials/1.7.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -296,7 +296,7 @@
         "lib/xamarinwatchos10/Xamarin.Essentials.pdb",
         "lib/xamarinwatchos10/Xamarin.Essentials.xml",
         "readme.txt",
-        "xamarin.essentials.1.7.1.nupkg.sha512",
+        "xamarin.essentials.1.7.2.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
     },
@@ -520,28 +520,31 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "Xamarin.Essentials >= 1.7.1",
+      "Xamarin.Essentials >= 1.7.2",
       "Xamarin.Forms >= 5.0.0.2401"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nandhini.B\\.nuget\\packages\\": {},
+    "C:\\Users\\Meera.T\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting\\ABTesting.csproj",
+      "projectUniqueName": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting\\ABTesting.csproj",
       "projectName": "ABTesting",
-      "projectPath": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting\\ABTesting.csproj",
-      "packagesPath": "C:\\Users\\Nandhini.B\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting\\obj\\",
+      "projectPath": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting\\ABTesting.csproj",
+      "packagesPath": "C:\\Users\\Meera.T\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nandhini.B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Meera.T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -576,7 +579,7 @@
           },
           "Xamarin.Essentials": {
             "target": "Package",
-            "version": "[1.7.1, )"
+            "version": "[1.7.2, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

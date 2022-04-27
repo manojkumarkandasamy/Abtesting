@@ -15,16 +15,9 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.android.gms.analyticsservices" >
+    package="com.google.android.gms.ads_identifier" >
 
     <uses-sdk android:minSdkVersion="14" />
-
-    <!-- Include required permissions for Analytics to run. -->
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
-    <!-- Optional permission for Analytics to run. -->
-    <uses-permission android:name="android.permission.WAKE_LOCK" />
 
     <application />
 

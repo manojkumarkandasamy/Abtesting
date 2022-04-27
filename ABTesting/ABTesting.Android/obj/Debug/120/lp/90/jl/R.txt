@@ -1,0 +1,3 @@
+int string tagmanager_preview_dialog_button 0x00000000
+int string tagmanager_preview_dialog_message 0x00000000
+int string tagmanager_preview_dialog_title 0x00000000

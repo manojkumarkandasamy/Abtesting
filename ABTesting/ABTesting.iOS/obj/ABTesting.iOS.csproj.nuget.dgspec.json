@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting.iOS\\ABTesting.iOS.csproj": {}
+    "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting.iOS\\ABTesting.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting.iOS\\ABTesting.iOS.csproj": {
+    "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting.iOS\\ABTesting.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting.iOS\\ABTesting.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting.iOS\\ABTesting.iOS.csproj",
         "projectName": "ABTesting.iOS",
-        "projectPath": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting.iOS\\ABTesting.iOS.csproj",
-        "packagesPath": "C:\\Users\\Nandhini.B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting.iOS\\ABTesting.iOS.csproj",
+        "packagesPath": "C:\\Users\\Meera.T\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nandhini.B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Meera.T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +34,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting\\ABTesting.csproj": {
-                "projectPath": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting\\ABTesting.csproj"
+              "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting\\ABTesting.csproj": {
+                "projectPath": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting\\ABTesting.csproj"
               }
             }
           }
@@ -45,6 +47,30 @@
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.7.0, )"
+            },
+            "Xamarin.Firebase.iOS.Analytics": {
+              "target": "Package",
+              "version": "[8.10.0, )"
+            },
+            "Xamarin.Firebase.iOS.CloudMessaging": {
+              "target": "Package",
+              "version": "[8.10.0, )"
+            },
+            "Xamarin.Firebase.iOS.Core": {
+              "target": "Package",
+              "version": "[8.10.0, )"
+            },
+            "Xamarin.Firebase.iOS.Installations": {
+              "target": "Package",
+              "version": "[8.10.0, )"
+            },
+            "Xamarin.Firebase.iOS.InstanceID": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "Xamarin.Firebase.iOS.RemoteConfig": {
+              "target": "Package",
+              "version": "[8.10.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
@@ -65,20 +91,22 @@
         }
       }
     },
-    "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting\\ABTesting.csproj": {
+    "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting\\ABTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting\\ABTesting.csproj",
+        "projectUniqueName": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting\\ABTesting.csproj",
         "projectName": "ABTesting",
-        "projectPath": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting\\ABTesting.csproj",
-        "packagesPath": "C:\\Users\\Nandhini.B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nandhini.B\\source\\repos\\ABTesting\\ABTesting\\ABTesting\\obj\\",
+        "projectPath": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting\\ABTesting.csproj",
+        "packagesPath": "C:\\Users\\Meera.T\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Meera.T\\Desktop\\New folder\\Abtesting\\ABTesting\\ABTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nandhini.B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Meera.T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -113,7 +141,7 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.7.1, )"
+              "version": "[1.7.2, )"
             },
             "Xamarin.Forms": {
               "target": "Package",

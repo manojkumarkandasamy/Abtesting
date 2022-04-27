@@ -10,10 +10,12 @@ namespace ABTesting.DependencyInterface
 {
     public interface IRemoteConfiguration 
     {
+        
         Task FetchAndActivateAsync();
 
-        Task<TInput> GetAsync<TInput>(string key);
-        string Display();
+         //Task<string> Display();
+
+        //Task<string> GetTokenAsync();
 
     }
 }
