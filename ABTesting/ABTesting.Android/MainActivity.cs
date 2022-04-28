@@ -26,6 +26,7 @@ namespace ABTesting.Droid
             var x = FirebaseApp.InitializeApp(this);
             fapp = x;
             object p = await FirebaseInstallations.GetInstance(fapp).GetToken(true);
+
             LoadApplication(new App());
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

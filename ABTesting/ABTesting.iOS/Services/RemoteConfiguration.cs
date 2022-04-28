@@ -29,8 +29,8 @@ namespace ABTesting.iOS.Services
             var status = await RemoteConfig.SharedInstance.FetchAsync(0);
             if (status == RemoteConfigFetchStatus.Success)
             {
-                //Activate new values
-               var value =  RemoteConfig.SharedInstance.GetKeys("Testing");
+                var value =  RemoteConfig.SharedInstance.GetKeys("Testing");
+                Console.WriteLine(value);
             }
         }
 

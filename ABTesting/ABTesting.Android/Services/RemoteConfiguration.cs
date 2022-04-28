@@ -46,38 +46,7 @@ namespace ABTesting.Droid.Services
             var settings = FirebaseRemoteConfig.Instance.GetString(key);
             return await Task.FromResult(Newtonsoft.Json.JsonConvert.DeserializeObject<TInput>(settings));
         }
-        /*  
-         public async Task<string> Display()
-         {
-             try
-             {
-                 Device.BeginInvokeOnMainThread(async () =>
-                 {
-                     var firebaseInstanceId = await FirebaseInstallations.Instance.GetId();
-                 });
-                 Device.BeginInvokeOnMainThread(async () =>
-                 {
-                     var firebaseInstanceId = await FirebaseInstallations.Instance.GetId();
-                 });
 
-                var firebaseInstanceToken = FirebaseMessaging.Instance.GetToken();
-                var token = firebaseInstanceToken.Result.ToString();
-                return token;
-             }
-             catch (Exception ex)
-             {
-                 return (ex.ToString());
-             }
-
-         }*/
-      /*  public async Task<string> GetTokenAsync()
-        {
-            *//*var t = await FirebaseMessaging.Instance.GetToken();
-            return t.ToString();*//*
-            var t = FirebaseInstanceId.Instance.GetInstanceId();
-            return t.ToString();
-        }
-*/
 
 
 

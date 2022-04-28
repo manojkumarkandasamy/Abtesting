@@ -22,7 +22,7 @@ namespace ABTesting.ViewModel
             try
             {
 
-                Instance = DependencyService.Get<IRemoteConfiguration>().GetTokenAsync();
+                //Instance = DependencyService.Get<IRemoteConfiguration>().GetTokenAsync();
             }
             catch (Exception ex)
             {
